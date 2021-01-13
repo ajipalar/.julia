@@ -1,0 +1,113 @@
+[[Libgpg_error]]
+arch = "aarch64"
+git-tree-sha1 = "7f6bc8550993444f993e68dc0470d793f462911b"
+libc = "glibc"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "f06b67019170cc1d16f6b5c35d01a8571adcba8dcc50845c0b32f8df22858494"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.aarch64-linux-gnu.tar.gz"
+[[Libgpg_error]]
+arch = "aarch64"
+git-tree-sha1 = "104b0025fa50f85a48609f1ebb1f79b5c9762165"
+libc = "musl"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "055addb0eec025acbe8546049bdde9799960e4000140602231092816409a1c1e"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.aarch64-linux-musl.tar.gz"
+[[Libgpg_error]]
+arch = "armv7l"
+git-tree-sha1 = "9566f8e4131873a3b26a1f942caf6d72a690ecc0"
+libc = "glibc"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "9297d6df4625675097bf70942e196845acc585872a76c134abf2746a829b3251"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.armv7l-linux-gnueabihf.tar.gz"
+[[Libgpg_error]]
+arch = "armv7l"
+git-tree-sha1 = "9d97fedd80668204680ee2570641133f2f8949a6"
+libc = "musl"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "9a6aa7a6a710f6daac107bcdef6ca51a9089349e89e3cf438296a51faa89f6ad"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.armv7l-linux-musleabihf.tar.gz"
+[[Libgpg_error]]
+arch = "i686"
+git-tree-sha1 = "8b98d6a7c53d1d2b4da172e3d250639af3bd0ea8"
+libc = "glibc"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "5d9f75173c29b4ad00264512dfc779ce7361af7c13b7ea06cb981c74f0d892f3"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.i686-linux-gnu.tar.gz"
+[[Libgpg_error]]
+arch = "i686"
+git-tree-sha1 = "7d37fa6757fe070daeb0e2a0bd2298801de6e64d"
+libc = "musl"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "29939bf3117355c035f2cd130a4dd7fd7ea7887f961bf99c74f0118740c47fcb"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.i686-linux-musl.tar.gz"
+[[Libgpg_error]]
+arch = "i686"
+git-tree-sha1 = "d0c5c91a18ce114ae4d853f9f7f5c16498d0ab92"
+os = "windows"
+
+    [[Libgpg_error.download]]
+    sha256 = "12faa933b853bdd7c93f55f42c5ec023e16bec73baf38b58f42837f79324b3a8"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.i686-w64-mingw32.tar.gz"
+[[Libgpg_error]]
+arch = "powerpc64le"
+git-tree-sha1 = "7b4415d4636456b57d70f35e7350f1678f03c9ac"
+libc = "glibc"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "3ba01a831cb5f6e3617cc50cc4a0c74ee5c4048f44efa93606ddc717985fe042"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.powerpc64le-linux-gnu.tar.gz"
+[[Libgpg_error]]
+arch = "x86_64"
+git-tree-sha1 = "c5ca9111b00418ffdc26777cb796bd15ffd9ac65"
+os = "macos"
+
+    [[Libgpg_error.download]]
+    sha256 = "c7d62e0c33365768f5173c5bcf2c321067e4917c081645f4b2229974a35a200a"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.x86_64-apple-darwin14.tar.gz"
+[[Libgpg_error]]
+arch = "x86_64"
+git-tree-sha1 = "575618730140d4aa796f2e7c75d33fac6845908d"
+libc = "glibc"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "f1a2505e73a10037157ca926a895ef1233704f6caec9fe73c690f3dd131ba0d1"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.x86_64-linux-gnu.tar.gz"
+[[Libgpg_error]]
+arch = "x86_64"
+git-tree-sha1 = "e52f0d8dbdb86060d6db5725ab81c1138485bc26"
+libc = "musl"
+os = "linux"
+
+    [[Libgpg_error.download]]
+    sha256 = "1c65e59c35512b62bd1b139a9d55ecb427f583ae24f7595a6b13e2c00978cf2a"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.x86_64-linux-musl.tar.gz"
+[[Libgpg_error]]
+arch = "x86_64"
+git-tree-sha1 = "f3597ab74bed272d1b2dc551e2544ea853339bb2"
+os = "freebsd"
+
+    [[Libgpg_error.download]]
+    sha256 = "a3c49fd4ffc908344a5bc28362dc88d079de3447a83f36eb2c79bd0a526b502f"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Libgpg_error]]
+arch = "x86_64"
+git-tree-sha1 = "7d9472a47451f6e9863011f89fba7262b816131e"
+os = "windows"
+
+    [[Libgpg_error.download]]
+    sha256 = "d2dae4e2494bb026062dcd074f0374f0d0ab35923578816764af22a159c972e5"
+    url = "https://github.com/JuliaBinaryWrappers/Libgpg_error_jll.jl/releases/download/Libgpg_error-v1.36.0+2/Libgpg_error.v1.36.0.x86_64-w64-mingw32.tar.gz"

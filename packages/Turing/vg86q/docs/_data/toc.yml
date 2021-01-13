@@ -1,0 +1,78 @@
+- title: "USING TURING"
+  url: "docs/using-turing/get-started"
+  children:
+  - title: "Getting Started"
+    url: "docs/using-turing/get-started"
+
+  - title: "Quick Start"
+    url: "docs/using-turing/quick-start"
+
+  - title: "Guide"
+    url: "docs/using-turing/guide"
+
+  - title: "Advanced Usage"
+    url: "docs/using-turing/advanced"
+
+  - title: "Interface Guide"
+    url: "docs/using-turing/interface"
+
+  - title: "Automatic Differentiation"
+    url: "docs/using-turing/autodiff"
+
+  - title: "Performance Tips"
+    url: "docs/using-turing/performancetips"
+
+  - title: "Using DynamicHMC"
+    url: "docs/using-turing/dynamichmc"
+
+  - title: "Sampler Visualization"
+    url: "docs/using-turing/sampler-viz"
+
+- title: "TUTORIALS"
+  url: "tutorials"
+  children:
+  - title: "Home"
+    url: "tutorials"
+
+  - title: "Introduction to Turing"
+    url: "tutorials/0-introduction"
+
+  - title: "Gaussian Mixture Models"
+    url: "tutorials/1-gaussianmixturemodel"
+
+  - title: "Bayesian Logistic Regression"
+    url: "tutorials/2-logisticregression"
+
+  - title: "Bayesian Neural Networks"
+    url: "tutorials/3-bayesnn"
+
+  - title: "Hidden Markov Models"
+    url: "tutorials/4-bayeshmm"
+
+  - title: "Linear Regression"
+    url: "tutorials/5-linearregression"
+
+  - title: "Infinite Mixture Models"
+    url: "tutorials/6-infinitemixturemodel"
+
+  - title: "Bayesian Poisson Regression"
+    url: "tutorials/7-poissonregression"
+
+- title: "API"
+  url: "docs/library"
+  children:
+    - title: "Turing"
+      url: "docs/library"
+    - title: "AdvancedHMC"
+      url: "docs/library/advancedhmc/"
+    - title: "Bijectors"
+      url: "docs/library/bijectors/"
+
+- title: "CONTRIBUTING"
+  url: "docs/contributing/guide"
+  children:
+    - title: "How to Contribute"
+      url: "docs/contributing/guide"
+
+    - title: "Style Guide"
+      url: "docs/contributing/style-guide"

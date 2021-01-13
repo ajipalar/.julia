@@ -1,0 +1,23 @@
+# Julia
+Manifest.toml
+deps/build.log
+deps/bundles
+coverage/
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# JavaScript
+dist
+yarn.lock
+node_modules
+*.js.map
+lerna-debug.log
+package-lock.json
+*.tgz
+
+# Miscellaneous
+.*~
+.*.sw?
+*.pyc
+*.ipynb_checkpoints

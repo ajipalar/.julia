@@ -1,0 +1,113 @@
+[[LZO]]
+arch = "aarch64"
+git-tree-sha1 = "efe921e1abd5e9dfd917f875596fa31a88b0f19f"
+libc = "glibc"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "b893745cb8335b67f086db9d8274e3b492d3519b8d0314cf264016754cb1134b"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.aarch64-linux-gnu.tar.gz"
+[[LZO]]
+arch = "aarch64"
+git-tree-sha1 = "a48d8be6acda3de0602dbc6bae58daa071a761b4"
+libc = "musl"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "9cb9b2f6c2ec98d26ac50d5510ea41ef08ab892868bf755d3732d872b9fe184e"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.aarch64-linux-musl.tar.gz"
+[[LZO]]
+arch = "armv7l"
+git-tree-sha1 = "4e12e2c53e944b8d2716e1a1069ac43fa63b40b3"
+libc = "glibc"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "2f37fbae9d68d929b188a6b544ac2fe85638c6ceae612f9b40e773681d7ac984"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.armv7l-linux-gnueabihf.tar.gz"
+[[LZO]]
+arch = "armv7l"
+git-tree-sha1 = "73c036533b77f6f52759c1b70824fe53a7e5745a"
+libc = "musl"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "bd197bce13ac020dfc222e5087589b06cf0dc5d37bbf52123abab035c04507d9"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.armv7l-linux-musleabihf.tar.gz"
+[[LZO]]
+arch = "i686"
+git-tree-sha1 = "b15574e39e5e5158912bb136a82697932bcbbe4a"
+libc = "glibc"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "f02e5326288ffed6316c7c73cb44e39b17b29233e8833dec247123d53f6c421e"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.i686-linux-gnu.tar.gz"
+[[LZO]]
+arch = "i686"
+git-tree-sha1 = "85be26fa3e7574bd8c7f9f1d03cf341358080624"
+libc = "musl"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "a1c3113c6d427a11b7fb2682951da7eb1ef119bb776b080d328cafc014c56e8d"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.i686-linux-musl.tar.gz"
+[[LZO]]
+arch = "i686"
+git-tree-sha1 = "934177e715f989a9984bae67420eab3ca0f4459d"
+os = "windows"
+
+    [[LZO.download]]
+    sha256 = "84ea1974853e42201eac81e49e6ef7994246ef5aaabf6671416ae596eaf91c3b"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.i686-w64-mingw32.tar.gz"
+[[LZO]]
+arch = "powerpc64le"
+git-tree-sha1 = "ab8291df1b3fb1295427b01530e3e20b886e2da8"
+libc = "glibc"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "0212708c35151f72ba9bfa82cec169d6d2c0020f3dcd5a624f07024c6d5fb9cc"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.powerpc64le-linux-gnu.tar.gz"
+[[LZO]]
+arch = "x86_64"
+git-tree-sha1 = "2de2d88b39cf21f7e0bccd7dee89a9327b683599"
+os = "macos"
+
+    [[LZO.download]]
+    sha256 = "c82b4e07f129e74e22a9ddb1ed42cd99c431212456904fe64790e1988ff3be92"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.x86_64-apple-darwin14.tar.gz"
+[[LZO]]
+arch = "x86_64"
+git-tree-sha1 = "7f78efcc8a7e8bd374663eaf41e34ba741ef9ab1"
+libc = "glibc"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "d42e4a7949d586ecdffa381682bde9ca3dbab48d019e314984a337924f8b39f9"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.x86_64-linux-gnu.tar.gz"
+[[LZO]]
+arch = "x86_64"
+git-tree-sha1 = "ea5011c2dc6de2ec6a52ae5d7c3963f55f4ae7c1"
+libc = "musl"
+os = "linux"
+
+    [[LZO.download]]
+    sha256 = "67a3d39e4364aa4c186cb2cd4f4c350521c899936048d4807878679f9c9cbe33"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.x86_64-linux-musl.tar.gz"
+[[LZO]]
+arch = "x86_64"
+git-tree-sha1 = "442330af3d81619d5f6a72611ea904f6503125c8"
+os = "freebsd"
+
+    [[LZO.download]]
+    sha256 = "e783abff14d01885c860d520fdeb8e80f1c91a3559da4f759991cd269db7431d"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[LZO]]
+arch = "x86_64"
+git-tree-sha1 = "5a555ef70980f67f4c85fa1ea6f207bfc5126797"
+os = "windows"
+
+    [[LZO.download]]
+    sha256 = "4ca52d6f8a05748c412be199aae9499d138c362d14b48de748a3b0d7461d144b"
+    url = "https://github.com/JuliaBinaryWrappers/LZO_jll.jl/releases/download/LZO-v2.10.0+2/LZO.v2.10.0.x86_64-w64-mingw32.tar.gz"

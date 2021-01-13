@@ -1,0 +1,113 @@
+[[Opus]]
+arch = "i686"
+git-tree-sha1 = "a96fee4d5f9fb7a95630a1f781ba469f3d68698f"
+libc = "musl"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "5b9888458f0ea580ba24086d53793ff55f1583682bb3f05f4290b0b7f37e576b"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.i686-linux-musl.tar.gz"
+[[Opus]]
+arch = "aarch64"
+git-tree-sha1 = "8e24b6998e0ba706e7c0144de59db979a43294be"
+libc = "musl"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "6118d0a62d2d506e764db0a0382fbcb5304b417d5dd70d583ee66233216aa074"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.aarch64-linux-musl.tar.gz"
+[[Opus]]
+arch = "i686"
+git-tree-sha1 = "9e89282fc92c37f85b53b0446ab78299ee276070"
+os = "windows"
+
+    [[Opus.download]]
+    sha256 = "59de0a45aed0de8ff7ced28837f9d314eb8ebfae729e8d8cdb11fc6b8d32df4f"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.i686-w64-mingw32.tar.gz"
+[[Opus]]
+arch = "x86_64"
+git-tree-sha1 = "193e0922576124c49718ffe018db52c84a06b9de"
+os = "windows"
+
+    [[Opus.download]]
+    sha256 = "0675ee3ac6785adb47c44f78e699a33c83a6d4fd4dbb4132e216ba9ab5f02649"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.x86_64-w64-mingw32.tar.gz"
+[[Opus]]
+arch = "armv7l"
+git-tree-sha1 = "5e2cb29727ec94589512cd8fc58e6238092ef14f"
+libc = "glibc"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "052e00a31804bfa5352068ab17add9e9960a6fa5212a2588fbce6a7ef258f696"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.armv7l-linux-gnueabihf.tar.gz"
+[[Opus]]
+arch = "armv7l"
+git-tree-sha1 = "a836e40504a37d6af809008324625b92a30ae119"
+libc = "musl"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "a176f0bfd2172177737f7a554574663bbc1b634d445bc9094901ba4a398b8c28"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.armv7l-linux-musleabihf.tar.gz"
+[[Opus]]
+arch = "i686"
+git-tree-sha1 = "e5a1f152e7920521fce5e5f1895c57c9a86a9a8e"
+libc = "glibc"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "878e7013bafada46dce15269183b59cc16f2ee6ccb0f5c0dc663a676e190ce4a"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.i686-linux-gnu.tar.gz"
+[[Opus]]
+arch = "x86_64"
+git-tree-sha1 = "60094fa9668e77dd28cae5f95f7d3163db63203a"
+libc = "glibc"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "845a7945d5912d6c71142b74fc420a89d0733272eff7d42623f9521d2e5714f1"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.x86_64-linux-gnu.tar.gz"
+[[Opus]]
+arch = "powerpc64le"
+git-tree-sha1 = "a75a9fc2f4f2a29c329d46fe43d1200e7b781360"
+libc = "glibc"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "ef9f85ebbf5f24993235e00217d2b5507815ee0c48370e3a32e969a3d06530a0"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.powerpc64le-linux-gnu.tar.gz"
+[[Opus]]
+arch = "x86_64"
+git-tree-sha1 = "120e9425f25b2828bb99589a5532e34b6db0185e"
+os = "macos"
+
+    [[Opus.download]]
+    sha256 = "941aa63c0f4a7dd5a27a0f4ebdf5700dc121ae40af8593a00300f50af7086317"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.x86_64-apple-darwin14.tar.gz"
+[[Opus]]
+arch = "aarch64"
+git-tree-sha1 = "4023d195ac5d8164e115723dbd55a6d3ac66ee05"
+libc = "glibc"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "9281af92837404067629939a9ed89e8aff05db2fd803a00fddf3b882bf7937ec"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.aarch64-linux-gnu.tar.gz"
+[[Opus]]
+arch = "x86_64"
+git-tree-sha1 = "c1c7c253a3b723a864b14083fc7382e8084df9e8"
+os = "freebsd"
+
+    [[Opus.download]]
+    sha256 = "011460e06895d9a6cee33d2b522900039a2ce596172e8d0b6b1a9838cf68bd48"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[Opus]]
+arch = "x86_64"
+git-tree-sha1 = "31d3fad0d3ff7af8dea8c39a3a1ba9cec38cd03c"
+libc = "musl"
+os = "linux"
+
+    [[Opus.download]]
+    sha256 = "04f94364bd0d0f45b10a1009d1cc843f7388601f0736ebaaeb0d3a0d5beb4277"
+    url = "https://github.com/JuliaBinaryWrappers/Opus_jll.jl/releases/download/Opus-v1.3.1+1/Opus.v1.3.1.x86_64-linux-musl.tar.gz"

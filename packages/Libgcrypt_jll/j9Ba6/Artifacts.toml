@@ -1,0 +1,113 @@
+[[Libgcrypt]]
+arch = "aarch64"
+git-tree-sha1 = "e66bff346b6fb7203b68011a0038cf6e1def2b65"
+libc = "glibc"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "275118f039a33c193d0827c274ffb32dc6daa9a36d8aff1f5ecebf6caf695814"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.aarch64-linux-gnu.tar.gz"
+[[Libgcrypt]]
+arch = "aarch64"
+git-tree-sha1 = "d6509a16dc998a5787af14f534b6c1427fde44c4"
+libc = "musl"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "68c20fb868c90c2dd73afa6975a206efb28152fd81778f48c7b28696a5ce2cf4"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.aarch64-linux-musl.tar.gz"
+[[Libgcrypt]]
+arch = "armv7l"
+git-tree-sha1 = "0392c2eddaf44db46e755b12852883b851f91ff3"
+libc = "glibc"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "2e081e9b077c9704a622bb7cf80a714694e54ed1c3b857b7ead60df08e2106ea"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.armv7l-linux-gnueabihf.tar.gz"
+[[Libgcrypt]]
+arch = "armv7l"
+git-tree-sha1 = "71f1b681de129f3bf7a562eee1619b9a77da43ca"
+libc = "musl"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "6573e1ad1fb77e1f26371ffb942ef65a8741bc24b05ddcb39b4c45859713406a"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.armv7l-linux-musleabihf.tar.gz"
+[[Libgcrypt]]
+arch = "i686"
+git-tree-sha1 = "38d5622baa0f656dd3e683527406da69856d52fa"
+libc = "glibc"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "359afb4609e38c0945cca0ecd46ba029b1ee9c572df42059a0f543e619a6e9a4"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.i686-linux-gnu.tar.gz"
+[[Libgcrypt]]
+arch = "i686"
+git-tree-sha1 = "a24c6a876004383c58d1cc0360f6d78a6cc2045a"
+libc = "musl"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "f53e0b3241e6de4890b18e44194a97d51b5898a9f239699f5a75e472e1fa5e7d"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.i686-linux-musl.tar.gz"
+[[Libgcrypt]]
+arch = "i686"
+git-tree-sha1 = "7d8259646ccad2b5e1586794873eda57afadcad7"
+os = "windows"
+
+    [[Libgcrypt.download]]
+    sha256 = "a305d4322488063b51d1ed5d50aa551eccc0141a4dca1fb6f734540d8d7c89b6"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.i686-w64-mingw32.tar.gz"
+[[Libgcrypt]]
+arch = "powerpc64le"
+git-tree-sha1 = "b23f41672964140cfef51beec29d0b55296a2d3b"
+libc = "glibc"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "fc1a6b760dfd33105b668b9c60f96735e34e950b12050cc878629d659fb78f6f"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.powerpc64le-linux-gnu.tar.gz"
+[[Libgcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "622d03502486b1f52987016118cdf9b9db052ac3"
+os = "macos"
+
+    [[Libgcrypt.download]]
+    sha256 = "4ae7d3215dff4caa476ee72827fa4622941fda81550dac484365e6152de20cb0"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.x86_64-apple-darwin14.tar.gz"
+[[Libgcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "bec8e64dc2b9e89d634ec53df0767b33e1e6cb01"
+libc = "glibc"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "daa76913d04fcd497d4f46929e5d1f4aec9637ba109b716009267398438f650a"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.x86_64-linux-gnu.tar.gz"
+[[Libgcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "2b4dec4e9c834386b10d41aab226518661a65491"
+libc = "musl"
+os = "linux"
+
+    [[Libgcrypt.download]]
+    sha256 = "2d111ffe0b6a71e99b198469882e43303bad5f5c61806be4c8f4157fce694cad"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.x86_64-linux-musl.tar.gz"
+[[Libgcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "547d9c3cb2c99f9084014ca0d90befec5b10db05"
+os = "freebsd"
+
+    [[Libgcrypt.download]]
+    sha256 = "3bcff44a7e6e720cd20c5a218c5d7d4d1586d6e36cc20543db9472b16a276b2a"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.x86_64-unknown-freebsd11.1.tar.gz"
+[[Libgcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "c4037b9bbf031679b24db4d57451656108f4ae07"
+os = "windows"
+
+    [[Libgcrypt.download]]
+    sha256 = "fed348c014b0ee350bec79f315952512145880fbf95a1037fe4243151aa2f93c"
+    url = "https://github.com/JuliaBinaryWrappers/Libgcrypt_jll.jl/releases/download/Libgcrypt-v1.8.5+3/Libgcrypt.v1.8.5.x86_64-w64-mingw32.tar.gz"

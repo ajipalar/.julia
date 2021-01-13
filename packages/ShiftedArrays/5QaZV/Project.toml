@@ -1,0 +1,15 @@
+name = "ShiftedArrays"
+uuid = "1277b4bf-5013-50f5-be3d-901d8477a67a"
+repo = "https://github.com/piever/ShiftedArrays.jl.git"
+version = "1.0.0"
+
+[deps]
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

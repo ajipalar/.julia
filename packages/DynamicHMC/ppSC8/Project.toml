@@ -1,0 +1,37 @@
+name = "DynamicHMC"
+uuid = "bbc10e6e-7c05-544b-b16e-64fede858acb"
+authors = ["Tamas K. Papp <tkpapp@gmail.com>"]
+version = "2.1.4"
+
+[deps]
+ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LogDensityProblems = "6fdf6af0-433a-55f7-b3ed-c6c6e0b8df7c"
+NLSolversBase = "d41bc354-129a-5804-8e4c-c37616107c6c"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+julia = "^1"
+ArgCheck = "^1"
+DocStringExtensions = "^0.8"
+LogDensityProblems = "^0.9, 0.10"
+NLSolversBase = "^7"
+Optim = "0.18, 0.19, 0.20"
+Parameters = "^0.11, ^0.12"
+
+[extras]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+LogDensityTestSuite = "feb245ec-c857-584e-a66a-22324acf10c6"
+MCMCDiagnostics = "6e857e4b-079a-58c4-aeab-bc2670384359"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TransformVariables = "84d833dd-6860-57f9-a1a7-6da5db126cff"
+
+[targets]
+test = ["Documenter", "ForwardDiff", "HypothesisTests", "LogDensityTestSuite", "MCMCDiagnostics", "StatsBase", "Test", "TransformVariables"]

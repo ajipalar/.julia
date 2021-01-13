@@ -1,0 +1,5 @@
+*.jl.cov
+*.jl.mem
+*.svg
+Manifest.toml
+test/data/*-comparison.png

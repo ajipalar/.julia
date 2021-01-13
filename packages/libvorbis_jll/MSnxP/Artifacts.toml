@@ -1,0 +1,113 @@
+[[libvorbis]]
+arch = "i686"
+git-tree-sha1 = "234dbede70112e069cae8a48e298f6f3b7626d65"
+libc = "musl"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "a2a5f533075456086ed0493048bb33994fe6828c9a618fc255f60a77f3578826"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.i686-linux-musl.tar.gz"
+[[libvorbis]]
+arch = "aarch64"
+git-tree-sha1 = "28c2094a4c297a64a3791fab1e484f9ef10cb55b"
+libc = "musl"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "e3c62ccfc3678b979720b5a774a9dc676ba0a205767450c46e1d0b401fe7b742"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.aarch64-linux-musl.tar.gz"
+[[libvorbis]]
+arch = "i686"
+git-tree-sha1 = "f18c54e5cf81eddc733b34b377444fc4a4ae0d21"
+os = "windows"
+
+    [[libvorbis.download]]
+    sha256 = "847c20c4f68b001800f2d3cf3125050080c437528535c5cb06de0b77d4e68a67"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.i686-w64-mingw32.tar.gz"
+[[libvorbis]]
+arch = "x86_64"
+git-tree-sha1 = "a934706fd183ead565854bf73513431fb834f7b2"
+os = "windows"
+
+    [[libvorbis.download]]
+    sha256 = "194f058cd19df12bf7495b655a1c529a240245fdaf5261621f314ce56bcb5a1b"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.x86_64-w64-mingw32.tar.gz"
+[[libvorbis]]
+arch = "armv7l"
+git-tree-sha1 = "5e9da9642e97d815d64e148ae395ae2c3eb545cf"
+libc = "glibc"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "44e7a22da013b0a216e2bd08e97b511e819e93fcf9c56aa64e84639485411d01"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.armv7l-linux-gnueabihf.tar.gz"
+[[libvorbis]]
+arch = "armv7l"
+git-tree-sha1 = "2802fa3a7d462ac595c1482fa23449a0e01fc65d"
+libc = "musl"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "045f7f7a1cf7a1a89ca4bcc6caa3187f4fbc9166bb993e51643efd5a8e5bf826"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.armv7l-linux-musleabihf.tar.gz"
+[[libvorbis]]
+arch = "i686"
+git-tree-sha1 = "6468c008b7f76b3862feca446cbc412e9aa90582"
+libc = "glibc"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "ffb66aeb63e8cf4f4951b097dcd28c08eb1baf2e7cfaf721a41b80e4823dd39b"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.i686-linux-gnu.tar.gz"
+[[libvorbis]]
+arch = "x86_64"
+git-tree-sha1 = "2c115da09a12e51cc1763e8ae70196d023426e52"
+libc = "glibc"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "f0bfb11a5921c19f0ddf12670dce92d1cf49632b331c85a7b10129d8e3b53fcf"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.x86_64-linux-gnu.tar.gz"
+[[libvorbis]]
+arch = "powerpc64le"
+git-tree-sha1 = "2e41026aab636599d8e9e7180fd767e5713ff5ef"
+libc = "glibc"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "3cb56f0ea5927cc7f902068b0879a6be258fe7d5ac36216d2bc9cb22759e565d"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.powerpc64le-linux-gnu.tar.gz"
+[[libvorbis]]
+arch = "x86_64"
+git-tree-sha1 = "7566375d010c5eabbd07b4f13631ea5f4cb6c560"
+os = "macos"
+
+    [[libvorbis.download]]
+    sha256 = "aea6e44a14f5aa8b1654e5932360c9840a509718c605aedae36a1a1944ecaae3"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.x86_64-apple-darwin14.tar.gz"
+[[libvorbis]]
+arch = "aarch64"
+git-tree-sha1 = "3a60133320f60d0dcc484a9296896c341419269c"
+libc = "glibc"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "a05d5d7c41537c42ba492729b6901e3c92c37d4fac1c2f4085ed1d63f293eb37"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.aarch64-linux-gnu.tar.gz"
+[[libvorbis]]
+arch = "x86_64"
+git-tree-sha1 = "8787a40cb24a01976d5003753de3a227c9a93ce7"
+os = "freebsd"
+
+    [[libvorbis.download]]
+    sha256 = "5b2338219a7d9338a6748a0f5d7c5292cdad34353b57b19f76f93c1f6cf99db6"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.x86_64-unknown-freebsd11.1.tar.gz"
+[[libvorbis]]
+arch = "x86_64"
+git-tree-sha1 = "9074ce1c102e1982e1b7c89a66baa4c750399f88"
+libc = "musl"
+os = "linux"
+
+    [[libvorbis.download]]
+    sha256 = "7fda566dac544d89595e638644757e07b463413c3b12f2b18f6aa9fcd519fea7"
+    url = "https://github.com/JuliaBinaryWrappers/libvorbis_jll.jl/releases/download/libvorbis-v1.3.6+4/libvorbis.v1.3.6.x86_64-linux-musl.tar.gz"

@@ -1,0 +1,45 @@
+language: julia
+
+# avoids duplicate tests in PRs
+branches:
+  only:
+    - master
+
+matrix:
+  fast_finish: true
+
+jobs:
+  include:
+    - stage: test
+      os: linux
+      julia: 1.0
+      env: STAGE=test
+      script:
+        - if [[ -a .git/shallow ]]; then git fetch --unshallow; fi
+        - julia --check-bounds=yes -e 'using Pkg;
+                   Pkg.test("Turing"; coverage=true)'
+    - stage: test
+      os: linux
+      julia: 1.1
+      env: STAGE=test
+      script:
+        - if [[ -a .git/shallow ]]; then git fetch --unshallow; fi
+        - julia --check-bounds=yes -e 'using Pkg;
+                   Pkg.test("Turing"; coverage=true)'
+    - stage: test
+      os: linux
+      julia: 1.2
+      env: STAGE=test
+      script:
+        - if [[ -a .git/shallow ]]; then git fetch --unshallow; fi
+        - julia --check-bounds=yes -e 'using Pkg;
+                   Pkg.test("Turing"; coverage=true)'
+after_success:
+    - julia -e 'if get(ENV, "STAGE", "") == "test"
+                using Pkg; cd(Pkg.dir("Turing")); Pkg.add("Coverage");
+                end'
+# comment out due to https://github.com/JuliaWeb/MbedTLS.jl/issues/193
+# using Coverage; Coveralls.submit(process_folder())
+
+notifications:
+    email: false

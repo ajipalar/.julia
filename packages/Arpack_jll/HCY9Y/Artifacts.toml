@@ -1,0 +1,378 @@
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "fb4dd08b8749e56059d80d8c1787a70f5765dddd"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "887fcc8deb13510589054ab4b72b376f43ab27ffe8e260739fecfba2f2852b82"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "aarch64"
+git-tree-sha1 = "519c3c2f17c7cc3593175674eab56edce7e515a4"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "2e82848f3ee40adc91b29cd4238cf9f1277938c8ef18e93d0db10cef7346efe0"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "0d01b4978f474c2e4fbf2c6d0aff4ed5c1358f9f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "c29bee8279cce6b7a9582903854c2f440770924b86cb8a6073c854f005df8d6d"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "1a286e217ca7927baf7a5929986393271169d23c"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "0d67d4c780b212962af288266f871d494890285d6a7fd1b8d55bc6c3e948e844"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "aarch64"
+git-tree-sha1 = "3d2a78a42d2c233e4328a88faba7b02f6bbe1bbf"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "0810bb0f1ca3d6677ba91622051c6ecc2ffa535f526f765d81dcd5c64f3f3e49"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "a0a839ed2c7e21ad97cef4861b2bbc30b9794254"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Arpack.download]]
+    sha256 = "68eaa7d51924d921e8fc7d236226bc8f79644ac440023755a878d967c3f754c4"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "aarch64"
+git-tree-sha1 = "47caedc82663d6d4335af69ceea6a317928f2d3c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "12d4df9b810f74474fc84ff54c0582e58a8d6e5030553e2c5cf84edff0ff7181"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "armv7l"
+git-tree-sha1 = "b7d68428907c7afd9755922bcd05a7ed5f615399"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "5248600a0c541e85021e2fb6b74775f0429701c8d60288adbbbb118348fb3731"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.arm-linux-musleabihf-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "armv7l"
+git-tree-sha1 = "ea45398a61ca9543b9f43cabde9437169e694985"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "bd6c89735b7db1a9ff7d8b4098b43cc7487a2381d1109b8f1d9b4c8fb0f9040b"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.arm-linux-musleabihf-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "6734993a6bf904829492ac8915928b405badcbae"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "18bff92384c0175e16b385e4cf6e557657fa1d008c09cccbbb16829b4f85328e"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-linux-musl-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "e61d2ce7271b13bd0668aa4e02125f2a19429796"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Arpack.download]]
+    sha256 = "4552d5fd4ce24f4f66b6a4d4812c52827695bc3e852cff2e16ba3943d8c1d820"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "0b23ae5ff2e8bd1fbb64ec0beb4510922a1a8f83"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Arpack.download]]
+    sha256 = "8f8d35cc3fbf1493499231e80d49728d4a68d287e40793ad780df4aef52b2779"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "armv7l"
+git-tree-sha1 = "47aa0942556f1c8423a68d859b42c84187af9f04"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "830c3639a8e0d521363c371268113e6546bbc44acb42d14d4cf2d13af6e9bf98"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.arm-linux-gnueabihf-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "powerpc64le"
+git-tree-sha1 = "610c4957a12b191155d446e3fb0469f3898af2b6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "30e90a37b8841493b9797e23853133c8cd9d1cbeff5bc6764b73483b5a43e994"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "bdbd725e401a378d3763feb91d974c6dcfd43b8c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "38f099c40a14da6de823d14acc199e16c80f929fc1f0115365204e22f9eaf1eb"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "armv7l"
+git-tree-sha1 = "208fa195b2c6593b96f05e527d68e0f251f17a64"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "a52971708fbc378b4f041a90ceec98cb82f00d41cc138061897447593a1b2b59"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.arm-linux-gnueabihf-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "990ebebc0e706591492a320cdcd15f3eb857fa75"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Arpack.download]]
+    sha256 = "1d78c69a2c0317dd79a8b5a23475f1d835ee7f491dd37adae0a5a89cd341d3b8"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "armv7l"
+git-tree-sha1 = "1ea2dd42b5ddfbd1680d8a4fcbc49b1e2f9b75f9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "e5062daaeb759fd48cb311104c92d261c178c68d7f980cbc0b151e1f40f1eef1"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.arm-linux-gnueabihf-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "3f79f3ada2152574cd6c037d9d486ebe89625361"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Arpack.download]]
+    sha256 = "34de116f3e4c9cfd0168d15437a09e5c5b744cecae525f02848420f7ef09e09f"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "a8315df00098caedef8a075205fa2f0976d5badd"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Arpack.download]]
+    sha256 = "763a5c445bedf476e67561891e32249fe7914520b889a5e74a6d36c61d46cc35"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "f53145eb4c782f6e6a3a8404043befff8c3f5834"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "3622daa560d42d8995cb77dc53030e070cc9aa7b0748e6dcfefae8b2ea9fc641"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "aarch64"
+git-tree-sha1 = "f4c8ed23656776d65b96c7e0f4039f500a4d1b93"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "3043b8066d09d3d938db3b6c4cf963341e1adbe7883feacb5ae12b31c05dc3d4"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "497c8d623aceddb50b9c9ef146ecddcea30e7610"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Arpack.download]]
+    sha256 = "81d5ac674df9beff08aabdf899c731daad776e3a31af5883c3d5140eeaa1d5c2"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "aarch64"
+git-tree-sha1 = "eb1e95a82eb0463ec31e1409caccff904dd5e2fc"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "d64b48cee22cef29375f1041f8a646f9f9407a35ad28f8c76f2661f57aadf330"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "96244a218a10b55519cc7ce1204e22b167043b23"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Arpack.download]]
+    sha256 = "eebc96753710e17678128d4ce1f7f5ec59de3cc3afd063e30f8ef6807d860310"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "powerpc64le"
+git-tree-sha1 = "33c33858228c60bd9e574abee6a562152ac30645"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "be93a559a8794b0560658eeba1e867b699b516bc3442011c2edd647760bf6f15"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "aarch64"
+git-tree-sha1 = "d529863737a68f87e64674860b9d078af3916c27"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "83f5b08f5bf6b1a7fd72dc1438bb34bd1ac6b1082a9607cd32b6ffa9fb0fd873"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "armv7l"
+git-tree-sha1 = "03fc6f26bf03ac9081fed48313861fe88de5e121"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "0592f1b7a60fa6bf0e108b911f4c4546fd5ea03560f094d27ebd249fea9958da"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.arm-linux-musleabihf-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "9b64a7aef122763046324a006afea3d5b1ea1350"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "6afe3373a88b00cba91629627356d1c7167b06be7a573b8906e0a657e86b0391"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-linux-musl-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "b1fe9b12e0a5de7b0e5bfdd8bc65b93defac0dbd"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "6fd4d11409566cdfa1dc4f4a3c57fc355c07d41953ffad8a44d9812e1adc5edf"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "a4523e57c350b181b07604ceb82744c8b78d5af8"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "ee539289e1ad1b79d2ea87a4c9059c4d65459fe1aefd2a163f8f63ef342c7ab7"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "powerpc64le"
+git-tree-sha1 = "17664318c05791254d9e1f8aaf2f6ca80f404047"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "d3bb3bddf4b65000cc3c43ee980da3d3833b9f355f762711d707fdae5af0ef49"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "8a63e55e4ce37cc04c039ac5f48c2a8b8e9b3b37"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "c51d115bfe318e5a8e0bff3fa26173ee186ff4604e5387cd6d412519c84ca469"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "88a2c1ebdf6e3b783bb8799b8ddeff45fbaf2749"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Arpack.download]]
+    sha256 = "15b30b823bc10fe1ddeeaa236cac274065c5b06c52cfa307116b1af117637bc9"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "3705111ad8feb424302a5faf0a3a9dbedaf64303"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[Arpack.download]]
+    sha256 = "e66e0881b28bf6a46152222bb3e6bc9c432c38437fd5e24966daafc1b48df0d5"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "71415fbfc89818efa83a389c9cb599389138d07a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "237a2ff1fb8044e4ad0b956e028d4c64359e4397614b851b045960c74391c190"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "a1e75adedfe893b23011264ff01b458e6e73ae6c"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Arpack.download]]
+    sha256 = "72c6811ec0c0ab5962434b4893b611094595efa984dc05fc07011c350c292905"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[Arpack]]
+arch = "x86_64"
+git-tree-sha1 = "d598b6ef883c0835723953e397660e00f6cebfa9"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Arpack.download]]
+    sha256 = "1fce88c32fa2b2f576b6d78f4ca42e3511fbf36f46ef3dd5340c7921b247f171"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[Arpack]]
+arch = "i686"
+git-tree-sha1 = "340961cbe31b64635617c1cba5af28a7e4ce282a"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Arpack.download]]
+    sha256 = "51b26aaf5fce2c600845060ac50abfa74294a31d4e7b6183238457359f4b3c84"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack_jll.jl/releases/download/Arpack-v3.5.0+2/Arpack.v3.5.0.i686-linux-musl-libgfortran4.tar.gz"

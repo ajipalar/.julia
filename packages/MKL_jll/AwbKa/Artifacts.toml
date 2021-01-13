@@ -1,0 +1,47 @@
+[[MKL]]
+arch = "i686"
+git-tree-sha1 = "e18a5fede7155473a662d03084b144b102d5c1d3"
+lazy = true
+os = "windows"
+
+    [[MKL.download]]
+    sha256 = "af09d6870559f11aef64bcbb9b84033b32464d8d974aa42c93275537f7635d32"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_jll.jl/releases/download/MKL-v2019.0.117+2/MKL.v2019.0.117.i686-w64-mingw32.tar.gz"
+[[MKL]]
+arch = "x86_64"
+git-tree-sha1 = "f1a748603e2320fc8831cd03c7db92f68c147829"
+lazy = true
+os = "windows"
+
+    [[MKL.download]]
+    sha256 = "28bdeafbf079f9cf63867fdfbfafd90bd11cc033c085337a51fc492105d1f682"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_jll.jl/releases/download/MKL-v2019.0.117+2/MKL.v2019.0.117.x86_64-w64-mingw32.tar.gz"
+[[MKL]]
+arch = "x86_64"
+git-tree-sha1 = "20cdc1740b8da0124d1404dece39a90c92abee72"
+lazy = true
+os = "macos"
+
+    [[MKL.download]]
+    sha256 = "645b0994f3e963ecab0fa320735ab751d21ccdeb7d8917949f0498ae8c7a5a3c"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_jll.jl/releases/download/MKL-v2019.0.117+2/MKL.v2019.0.117.x86_64-apple-darwin14.tar.gz"
+[[MKL]]
+arch = "i686"
+git-tree-sha1 = "73a376772c61ec02bbd973410a828985f744fc27"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[MKL.download]]
+    sha256 = "e11a588227392a00383c21ce489e3d647e19e25f5156228578f5a895151b7e1f"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_jll.jl/releases/download/MKL-v2019.0.117+2/MKL.v2019.0.117.i686-linux-gnu.tar.gz"
+[[MKL]]
+arch = "x86_64"
+git-tree-sha1 = "dc95d2b1c5098c1d5fabf6e687119fccdeb300be"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[MKL.download]]
+    sha256 = "d4601c4d69576c9d0b05874087a30f2050abb581b959938a0762a56a79c184a3"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_jll.jl/releases/download/MKL-v2019.0.117+2/MKL.v2019.0.117.x86_64-linux-gnu.tar.gz"
