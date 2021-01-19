@@ -1,0 +1,14 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.o
+*.so
+*.dylib
+*.dll
+*~
+\#*
+deps/usr
+deps.jl
+*.log
+.vscode
+Manifest.toml
