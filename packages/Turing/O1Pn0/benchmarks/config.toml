@@ -1,0 +1,7 @@
+# Excludes
+EXCLUDES = [
+    "turing_benchmark.jl",
+    "BenchmarkHelper.jl",
+    "nuts/lr_helper.jl",
+    "^nuts/.+", # exclude nuts dir temporarily
+]
